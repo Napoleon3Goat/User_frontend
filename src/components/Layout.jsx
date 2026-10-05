@@ -6,7 +6,7 @@ export default function Layout() {
     <div className="site">
       <header className="site-header">
         <Link to="/" className="logo">
-          <span className="logo-mark">▲</span> Goatcliff
+          Goatcliff
         </Link>
         <nav>
           <NavLink to="/" end>Book</NavLink>
